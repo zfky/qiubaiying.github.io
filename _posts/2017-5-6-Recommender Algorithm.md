@@ -1,5 +1,4 @@
 ---
-
 layout:     post                       # 使用的布局（不需要改）
 title:   协同过滤推荐算法测试               # 标题 
 subtitle:   Recommender Algorithm for Collaborative filtering   #副标题
@@ -8,9 +7,7 @@ author:     ZFKY                         # 作者
 header-img: img/post-bg-2015.jpg     #这篇文章标题背景图片
 catalog: true                         # 是否归档
 tags:                                #标签
-
 -生活
-
 ---
 
 
